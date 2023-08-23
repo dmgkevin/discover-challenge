@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".assets/discover-task" width="100%">
+  <img alt="projeto DevLinks" src="https://user-images.githubusercontent.com/93497408/262583574-203d2995-94a8-4234-b28b-aac93733c1d7.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
